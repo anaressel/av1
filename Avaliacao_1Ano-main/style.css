@@ -1,0 +1,22 @@
+body{
+    background-color: gray
+}
+h1{
+    font-size: 70px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}   
+p{
+    font-size: 20px;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+img{
+    width: 450px;
+    height: 350px;
+    margin: 100px;
+    margin-left: 130px;
+}
+
